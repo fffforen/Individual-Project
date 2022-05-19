@@ -10,3 +10,4 @@
 MaxSum函数：void MaxSum( )<br>
 Main主函数：int Main( )<br>
 ## 三、运行结果：
+![img](https://github.com/fffforen/Individual-Project/blob/master/Individual-Project/images/Running%20Result.png)
